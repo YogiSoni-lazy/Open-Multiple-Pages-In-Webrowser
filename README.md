@@ -1,9 +1,9 @@
-# Usage
-
-Getting Started: This code opens multiple tabs in the browser by appending an id at the end of the URL.
+# Description: 
+This code opens multiple tabs in the browser by appending an id at the end of the URL.
 
 ### Recommended: create virtual environment
 
+### Usage
 ```
 # virtualenv -p python3.6 env
 # source env/bin/activate
