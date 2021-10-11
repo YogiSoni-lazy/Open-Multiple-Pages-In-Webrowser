@@ -1,6 +1,6 @@
 # Usage
 
-Getting Started
+Getting Started: This code opens multiple tabs in the browser by appending an id at the end of the URL.
 
 ### Recommended: create virtual environment
 
